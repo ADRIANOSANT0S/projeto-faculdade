@@ -5253,6 +5253,7 @@ main {
     }
 }
 
+
 @media(max-width:1060px) {
     .base-header__supersecondary .base-header__superelement {
         margin-right: 15px
@@ -5412,16 +5413,16 @@ main {
     width: 100%
 }
 
-/*.base-header__logo-imi {
+/* .base-header__logo-imi {
     width: 98px;
     height: 28px
-}*/
+} */
 
-.base-header__logo-imi img {
+/* .base-header__logo-imi img {
     max-width: 100%;
     height: auto;
     display: block
-}
+} */
 
 .base-header__logo-intesa {
     margin-left: auto;
@@ -5443,14 +5444,14 @@ main {
 
 @media(min-width:1024px) {
     .base-header__logo-imi {
-        width: 356px;
-        height: 57px;
+        width: 96px;
+        height: 96px;
         -webkit-transition: .3s ease-out;
         transition: .3s ease-out
     }
     .sticky .base-header__logo-imi {
-        height: 3pc;
-        width: 18pc;
+        height: 5pc;
+        width: 5pc;
     }
     .base-header__logo-intesa {
         width: 364px;
@@ -6613,7 +6614,7 @@ main {
 }*/
 
 .base-footer__logo-intesa {
-    width: 269px;
+    width: 120px;
     height: auto;
 	padding-top: 30px;
 }
@@ -6621,8 +6622,8 @@ main {
 .base-footer__logo-imi img,
 .base-footer__logo-intesa img,
 .responsive {
-    width: 100%;
-    height: auto
+    height: 10rem;
+    width: 20rem;
 }
 
 /*.base-footer__logo-imi img {
