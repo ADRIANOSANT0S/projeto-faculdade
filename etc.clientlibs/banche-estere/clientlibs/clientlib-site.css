@@ -5450,7 +5450,7 @@ main {
         transition: .3s ease-out
     }
     .sticky .base-header__logo-imi {
-        height: 5pc;
+        height: 4pc;
         width: 12pc;
     }
     .base-header__logo-intesa {
