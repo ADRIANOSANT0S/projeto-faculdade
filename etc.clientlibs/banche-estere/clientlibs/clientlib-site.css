@@ -5444,14 +5444,14 @@ main {
 
 @media(min-width:1024px) {
     .base-header__logo-imi {
-        width: 96px;
+        width: 240px;
         height: 96px;
         -webkit-transition: .3s ease-out;
         transition: .3s ease-out
     }
     .sticky .base-header__logo-imi {
         height: 5pc;
-        width: 5pc;
+        width: 12pc;
     }
     .base-header__logo-intesa {
         width: 364px;
