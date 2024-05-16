@@ -6572,6 +6572,7 @@ main {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    align-items: center;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
@@ -6600,6 +6601,8 @@ main {
         padding-bottom: 59px
     }
     .base-footer__container {
+        display: flex;
+        align-items: center;
         width: 100%;
         max-width: 90pc;
         margin: 0 auto;
@@ -6622,7 +6625,7 @@ main {
 .base-footer__logo-imi img,
 .base-footer__logo-intesa img,
 .responsive {
-    height: 10rem;
+    height: 18rem;
     width: 20rem;
 }
 
@@ -7576,6 +7579,8 @@ main {
     .base-breadcrumbs__items,
     .base-footer__container,
     .base-footer__nav-items {
+        display: flex;
+        align-items: center;
         padding: 0 29px
     }
     .banner-edit {
@@ -7727,6 +7732,8 @@ main {
     .base-breadcrumbs__items,
     .base-footer__container,
     .base-footer__nav-items {
+        display: flex;
+        align-items: center;
         padding: 0 40px
     }
 }
